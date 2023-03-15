@@ -1,0 +1,80 @@
+SHADRACK NAMBA
+
+PROPOSAL REQUEST FOR PROJECT ONE
+
+Brief summary of My interests and intent
+
+according to investopedia,the term unicorn refers to a privately held startup company with a value of over $1 billion. It is commonly used in the venture capital industry. The term was first popularized by venture capitalist Aileen Lee. Unicorns are very rare and require innovation. Because of their sheer size, unicorn investors tend to be private investors or venture capitalists, which means they are out of the reach of retail investors. Although it isn't necessary, many unicorns work their way to going public.
+ 
+ My project is to uncover formation patterns,locations and distributions accross the world in unicorn industries. I will examine relationships between industry type and location,the number of USA unicorns and their distribution by cities,based on unicorn valutions,i will establish the correlation between valuation, and number of unicorn in a location,i will calculate the city or region's valuations and establish trends in the unicorn industry and many related questions, as the my datamay permit .
+
+
+
+* The kind of data you'd like to work with and the field you're interested in (e.g., trading, quantitative analysis).
+ I will work with a csv file on worldwide unicorn Dataset and aim is to perform quanytitative analysis of the unicorn startups globally.
+> 
+* The kinds of questions you'll be asking of that data.
+
+How many sectors are represented in the unicorn startups?
+How many unicorn combapaniesjoing the club in Yearly?
+Which country reseprents the highest number of unicorn?(USA From preliminary checks)
+Which city has most valuation startups in world?
+what is the of US startups count
+Based on valuation which company has most valuation?
+How many fintech comapny in ths US?
+what is the total number of valuation startups in all cities
+
+
+* Possible source for such data.
+
+My source od data is from [Kaggle](https://www.kaggle.com/)
+
+i will access the data by using kaggle API
+
+## Data Cleanup & Analysis
+
+With data in hand, it's time to tackle development and analysis. This is where the fun starts!
+
+Inevitably, the analysis process can be broken into two broad phases: 
+
+            **Exploration and Cleanup**  
+            
+In data exploration and cleanup, i intend to perform the following:
+
+Dropping unnecessary columns in a DataFrame.
+Changing the index of a DataFrame.
+Using . str() methods to clean columns.
+Using the DataFrame. applymap() function to clean the entire dataset, element-wise.
+Renaming columns to a more recognizable set of labels.
+Skipping unnecessary rows in a CSV file.
+
+Further I will perform the following in prepartion for the analysis.
+Removing:Missing Values
+        Outliers
+        Duplicate Values
+
+           
+            **Analysis** proper.
+
+Similarly, after you've massaged your data and are ready to start crunching numbers, you should keep track of your work in a Jupyter Notebook dedicated specifically to analysis.
+
+ aggregation, 
+ 
+ correlation, 
+ 
+ comparison, 
+ 
+ Line graph - US Based Companies,
+ 
+ Ranking,
+ 
+ Extract some columns from US_unicorn startups,
+ 
+ summary statistics, 
+ 
+ Draw a chart and plots of companies in all cities.
+ 
+ financial analysis.
+ 
+
+
